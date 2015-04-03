@@ -1,0 +1,11 @@
+Package: phpipam
+Architecture: all
+Maintainer: Diddi Oskarsson
+Priority: optional
+Section: misc
+Depends: debconf (>= 0.5.00), apache2, php5, php5-mysql, php5-ldap, php5-gmp, php5-json, php-pear
+Version: $VERSION
+Description: IP Address Manager written in PHP
+ IP Address Manager written in PHP.
+ .
+ http://phpipam.net/
